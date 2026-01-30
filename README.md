@@ -7,4 +7,5 @@ These labs are intended as a _supplement to_ the official CKA labs as maintianed
 The aim of these labs, therefore, is to provide outcome-focused activities which allow learners to experience kubernetes constructs not in isolation but in combination, hopefully making the utility of these constructs more obvious. 
 
 ## Labs
+* Autoscaling and Performance Management
 * NetSec and Troubleshooting - deploy a webserver, exposed by an ingress via cross-namespace routing, whilst adhering to security and resource consumption policies and troubleshooting misconfigurations as necessary. 
